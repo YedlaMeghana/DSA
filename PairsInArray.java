@@ -23,3 +23,20 @@ public class PairsInArray
 		pairs(nums);
 	}
 }
+
+/* OUTPUT:
+Enter the size of the array: 
+5
+Enter array elements: 
+2
+4
+6
+8
+10
+
+(2,4)(2,6)(2,8)(2,10)
+(4,6)(4,8)(4,10)
+(6,8)(6,10)
+(8,10)
+
+*/
