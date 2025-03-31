@@ -28,7 +28,7 @@ public class SubArrays
 
 //OUTPUT:
 /*
-Enter the size of the array: 4
+Enter the size of the array: 5
 Enter the elements of the array: 2 4 6 8 10
 2
 2 4
