@@ -28,3 +28,19 @@ public class Kadanes
 		System.out.println("The MaxSum is "+sum);
 	}
 }
+
+
+/* OUTPUT:
+Enter the size of the array:
+8
+Enter the elements of the array:
+-2
+1
+-3
+4
+-1
+2
+1
+-5
+The MaxSum is 6
+*/
