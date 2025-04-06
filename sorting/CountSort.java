@@ -35,3 +35,15 @@ public class CountSort
         countSort(arr);
 	}
 	}
+
+/* OUTPUT:
+Enter the size of the array: 
+5
+Enter the elements of the array: 
+4
+5
+2
+3
+1
+1 2 3 4 5  
+*/
