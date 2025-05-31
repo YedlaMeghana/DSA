@@ -16,7 +16,7 @@ class GridUniquePaths {
       int n = 3;
       // no of rows
       int m=7;
-      uniquePaths(m,n);
+      System.out.println(uniquePaths(m,n));
     }
 }
 // Output: 28
